@@ -22,7 +22,8 @@ You can then use the resulting `.wuhb` file.
 
 # Credits
 A big thanks goes out to [brienj](https://github.com/xhp-creations) for creating the original rpx port of WUP Installer GX2,
-and [Gary](https://github.com/GaryOderNichts) for making the Wii U controller mod version.
+and [Gary](https://github.com/GaryOderNichts) for making the Wii U controller mod version,
+and [Fangal-Airbag](https://github.com/Fangal-Airbag) for creating the Aroma version.
 
 Also to [Yardape8000](https://github.com/Yardape8000) for creating the wup installer y mod which WUP Installer GX2 was based on. [His repo](https://github.com/Yardape8000/wupinstaller).
 
